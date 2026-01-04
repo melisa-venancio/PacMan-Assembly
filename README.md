@@ -12,7 +12,7 @@ endereçamento mapeado em memória e a organização modular do código.
 - Apresentação do Pac-Man
 - Fantasmas com comportamento básico
 - Comida distribuída pelo mapa
-- Interrupções e variáveis de estado para controlar o jogo
+- Variáveis de estado para controlar o jogo
 
 ## Estado do Projeto
 
