@@ -33,7 +33,11 @@ Sendo este um primeiro projeto nesta área, o trabalho desenvolvido constitui um
 
 ## Autores
 1- Ana Maria Domingos Joaquim 
+
 2- Maria Elisa Venâncio Congo 
+
 3- Matondo Makiesse Samuel 
+
 4- Serafina Gonçalves Xirimbimbi 
+
 - GRUPO Nº 17
