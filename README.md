@@ -15,11 +15,9 @@ Nesta fase, o programa realiza:
 - Rotinas genéricas de desenho de pixels.
 
 ## Estado do Projeto
-O projeto encontra-se numa fase inicial, servindo como base para futuras extensões, nomeadamente:
-- Introdução de ciclo principal do jogo;
-- Leitura de teclado;
-- Movimento do Pac-Man e dos inimigos;
-- Uso de interrupções para temporização.
+O projeto encontra-se numa versão final funcional, cumprindo os principais objetivos definidos para um primeiro contacto com programação em Assembly e com os conceitos de Arquitetura de Computadores. Foram implementados o ciclo principal do programa, a leitura de teclado e o movimento do Pac-Man e dos inimigos, bem como a temporização baseada em controlo por software.
+
+Sendo este um primeiro projeto nesta área, o trabalho desenvolvido constitui uma base sólida, ainda com margem para aperfeiçoamentos futuros, nomeadamente ao nível da utilização de interrupções de hardware para melhorar a eficiência e a organização temporal do sistema.
 
 ## Estrutura
 - `pacman.asm` — código-fonte em assembly do projeto.
