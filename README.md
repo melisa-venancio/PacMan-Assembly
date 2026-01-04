@@ -31,13 +31,14 @@ Sendo este um primeiro projeto nesta área, o trabalho desenvolvido constitui um
 3. Compile e execute o programa.
 4. O ecrã será inicializado com Pac-Man, fantasmas e comidas.
 
-## Autores
-1- Ana Maria Domingos Joaquim 
+## Alunos 
+Autora: Maria Elisa Venâncio Congo 
 
-2- Maria Elisa Venâncio Congo 
+ Ana Maria Domingos Joaquim 
 
-3- Matondo Makiesse Samuel 
+ Matondo Makiesse Samuel 
 
-4- Serafina Gonçalves Xirimbimbi 
+ Serafina Gonçalves Xirimbimbi 
 
 - GRUPO Nº 17
+## Docente joaojdacosta(GitHub
