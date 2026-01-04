@@ -15,7 +15,7 @@ endereçamento mapeado em memória e a organização modular do código.
 - Interrupções e variáveis de estado para controlar o jogo
 
 ## Estado do Projeto
-Estado do Projeto
+
 O projeto encontra-se numa fase inicial, servindo como base para futuras extensões, nomeadamente:
 	•	Introdução de ciclo principal do jogo;
 	•	Leitura de teclado;
